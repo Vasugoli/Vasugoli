@@ -63,10 +63,10 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vasugoli&show_icons=true&theme=radical&hide_border=true&title_color=A97CF8&icon_color=A97CF8&text_color=ffffff&bg_color=0D1117" alt="Vasugoli's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasugoli&layout=compact&theme=radical&hide_border=true&title_color=A97CF8&text_color=ffffff&bg_color=0D1117" alt="Top Langs" width="48%" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasugoli&theme=radical&hide_border=true&stroke=A97CF8&ring=A97CF8&fire=A97CF8&currStreakLabel=A97CF8" alt="GitHub Streak" width="97%" />
