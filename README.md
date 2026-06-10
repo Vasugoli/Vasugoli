@@ -66,15 +66,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/Vasugoli/output/pacman-contribution-graph-dark.svg">
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/Vasugoli/output/pacman-contribution-graph.svg">
 
   <img
     alt="Pacman Contribution Graph"
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/Vasugoli/output/pacman-contribution-graph.svg">
 </picture>
 
 <div align="center">
