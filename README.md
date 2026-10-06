@@ -77,26 +77,26 @@
     src="https://raw.githubusercontent.com/YOUR_USERNAME/Vasugoli/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasugoli&theme=radical&hide_border=true&stroke=A97CF8&ring=A97CF8&fire=A97CF8&currStreakLabel=A97CF8" alt="GitHub Streak" width="97%" />
-</div> -->
+</div> 
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vasugoli&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</div>
-
-<hr />
-<!--
-### 🔝 Top Contributed Repositories
-
 <!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasugoli&repo=customerSupportEnv&theme=radical&hide_border=true&title_color=A97CF8&icon_color=A97CF8&text_color=ffffff&bg_color=0D1117" alt="customerSupportEnv" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasugoli&repo=levelup&theme=radical&hide_border=true&title_color=A97CF8&icon_color=A97CF8&text_color=ffffff&bg_color=0D1117" alt="levelup" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vasugoli&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div> -->
 
-<hr /> -->
+<hr />
+
+### 🔝 Top Contributed Repositories
+
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasugoli&repo=customerSupportEnv&theme=radical&hide_border=true&title_color=A97CF8&icon_color=A97CF8&text_color=ffffff&bg_color=0D1117" alt="customerSupportEnv" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasugoli&repo=levelup&theme=radical&hide_border=true&title_color=A97CF8&icon_color=A97CF8&text_color=ffffff&bg_color=0D1117" alt="levelup" width="48%" />
+</div> 
+
+<hr /> 
 
 ### 📫 Connect with me:
 
