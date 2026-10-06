@@ -63,7 +63,7 @@
 
 ### 📊 GitHub Stats
 
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/YOUR_USERNAME/Vasugoli/output/pacman-contribution-graph-dark.svg">
@@ -75,7 +75,7 @@
   <img
     alt="Pacman Contribution Graph"
     src="https://raw.githubusercontent.com/YOUR_USERNAME/Vasugoli/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasugoli&theme=radical&hide_border=true&stroke=A97CF8&ring=A97CF8&fire=A97CF8&currStreakLabel=A97CF8" alt="GitHub Streak" width="97%" />
